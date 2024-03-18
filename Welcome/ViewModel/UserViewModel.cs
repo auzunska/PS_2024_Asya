@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,10 +17,16 @@ namespace Welcome.ViewModel
             _user = user;
         }
 
-        public string Name
+        public string Names
         {
-            get { return _user.Name; }
-            set { _user.Name = value; }
+            get { return _user.Names; }
+            set { _user.Names = value; }
+        }
+
+        public string Email
+        {
+            get { return _user.Email; }
+            set { _user.Email = value; }
         }
 
         public string Password
@@ -35,16 +41,10 @@ namespace Welcome.ViewModel
             set { _user.Role = value; }
         }
 
-        public string Email
+        public string FacNum
         {
-            get { return _user.Email; }
-            set { _user.Email = value; }
-        }
-
-        public string facNum
-        {
-            get { return _user.FacNum; }
-            set { _user.FacNum = value; }
+            get { return _user.FacNum;}
+            set { _user.FacNum = value;}
         }
     }
 }
