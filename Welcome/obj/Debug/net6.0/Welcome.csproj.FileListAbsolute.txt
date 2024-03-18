@@ -1,0 +1,14 @@
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\bin\Debug\net6.0\Welcome.exe
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\bin\Debug\net6.0\Welcome.deps.json
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\bin\Debug\net6.0\Welcome.dll
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\bin\Debug\net6.0\Welcome.pdb
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.dll
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.pdb
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+D:\TU_sem_6\PS\Labs\Таскове\Lab1\PS_42_Asya\Welcome\obj\Debug\net6.0\ref\Welcome.dll
