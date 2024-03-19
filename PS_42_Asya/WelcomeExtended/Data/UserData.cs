@@ -30,9 +30,10 @@ namespace WelcomeExtended.Data
 
         public bool ValidateUser(string name, string password)
         {
+            int hash = HashPassword(password);
             foreach (var user in _users)
             {
-                if(user.Names == name && user.Password.GetHashCode() == password.GetHashCode())
+                if(user.Names == name && user.Password.GetHashCode() == hash)
                 {
                     return true;
                 }
@@ -93,6 +94,12 @@ namespace WelcomeExtended.Data
         {
             User user = _users.FirstOrDefault(u => u.Names == name);
             user.Role = role;
+        }
+
+        private static int HashPassword(string password)
+        {
+            Console.WriteLine(password.GetHashCode());
+            return password.GetHashCode();
         }
     }
 }
