@@ -44,7 +44,7 @@ namespace WelcomeExtended
                 User user = UserHelper.GetUser(userData, username, password);
 
                 // Display user information
-                Console.WriteLine(user.ToString());
+                Console.WriteLine(UserHelper.ToString(user));
 
                 userData.AddUser(studentUser);
             }

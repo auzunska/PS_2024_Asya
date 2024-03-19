@@ -29,8 +29,6 @@ namespace WelcomeExtended.Helpers
                 return "The password cannot be empty";
             }
 
-            int hashedPassword = HashPassword(password);
-
             if (!userData.ValidateUser(name, password))
             {
                 return "Invalid credentials";
@@ -44,10 +42,6 @@ namespace WelcomeExtended.Helpers
             return userData.GetUser(name, password);
         }
 
-        private static int HashPassword(string password)
-        {
-            Console.WriteLine(password.GetHashCode());
-            return password.GetHashCode();
-        }
+        
     }
 }

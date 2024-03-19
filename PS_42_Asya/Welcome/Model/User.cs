@@ -12,7 +12,7 @@ namespace Welcome.Model
         private int _id;
         private string _names;
         private string _email;
-        private int _password;
+        private string _password;
         private UserRolesEnum _role;
         private string _facNum;
         private DateOnly _expires;
@@ -34,11 +34,8 @@ namespace Welcome.Model
 
         public string Password
         {
-            get { return _password.ToString(); }
-            set { int hash = value.GetHashCode();
-                Console.WriteLine($"Password hashed in User class: {hash}");
-                _password = hash;
-            }
+            get { return _password; }
+            set{_password = value;}
         }
 
         public UserRolesEnum Role

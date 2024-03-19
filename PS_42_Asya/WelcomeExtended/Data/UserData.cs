@@ -32,7 +32,7 @@ namespace WelcomeExtended.Data
         {
             foreach (var user in _users)
             {
-                if(user.Names == name && user.Password.GetHashCode() == password.GetHashCode())
+                if(user.Names == name && user.Password == password)
                 {
                     return true;
                 }
@@ -43,14 +43,14 @@ namespace WelcomeExtended.Data
 
         public bool ValidateUserLambda(string name, string password)
         {
-            return _users.Where(x => x.Names == name && x.Password.GetHashCode() == password.GetHashCode())
+            return _users.Where(x => x.Names == name && x.Password == password)
                 .FirstOrDefault() != null ? true : false;
         }
 
         public bool ValidateUserLinq(string name, string password)
         {
             var ret = from user in _users
-                      where user.Names == name && user.Password.GetHashCode() == password.GetHashCode()
+                      where user.Names == name && user.Password == password
                       select user.ID;
             return ret != null ? true : false;
         }
@@ -61,7 +61,7 @@ namespace WelcomeExtended.Data
 
             if(validate)
             {
-                User user = _users.FirstOrDefault(u => u.Names == name && u.Password.GetHashCode() == password.GetHashCode());
+                User user = _users.FirstOrDefault(u => u.Names == name && u.Password == password);
                 return user;
             }
 
@@ -83,7 +83,7 @@ namespace WelcomeExtended.Data
             {
                 Console.WriteLine($"ID: {user.ID}");
                 Console.WriteLine($"Name: {user.Names}");
-                Console.WriteLine($"Password: {user.Password.GetHashCode()}");
+                Console.WriteLine($"Password: {user.Password}");
                 // Print other properties as needed
                 Console.WriteLine();
             }
