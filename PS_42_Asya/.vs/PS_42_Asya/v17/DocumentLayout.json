@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,11 +62,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T15:25:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:25:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:28:12.137Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:35:02.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DataLayer.csproj",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\DataLayer.csproj",
               "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
@@ -71,18 +129,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
-              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:28:12.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Database\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseContext.cs",
@@ -94,20 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
-              "RelativeToolTip": "DataLayer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:35:02.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\ViewModel\\UserViewModel.cs",
               "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
@@ -119,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserView.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\View\\UserView.cs",
               "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
@@ -131,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DatabaseUser.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Model\\DatabaseUser.cs",
               "RelativeDocumentMoniker": "DataLayer\\Model\\DatabaseUser.cs",
@@ -143,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Model\\User.cs",
               "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
@@ -155,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UserHelper.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Helpers\\UserHelper.cs",
               "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelper.cs",
@@ -167,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Program.cs",
               "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
@@ -179,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "WelcomeExtended.csproj",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\WelcomeExtended.csproj",
               "RelativeDocumentMoniker": "WelcomeExtended\\WelcomeExtended.csproj",
