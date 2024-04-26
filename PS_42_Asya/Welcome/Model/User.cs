@@ -15,9 +15,9 @@ namespace Welcome.Model
         private string _password;
         private UserRolesEnum _role;
         private string _facNum;
-        private DateOnly _expires;
+        private DateTime _expires;
 
-        public int ID
+        public virtual int ID
         {
             get { return _id; }
             set { _id = value; }
@@ -50,7 +50,7 @@ namespace Welcome.Model
             set { _facNum = value; }
         }
 
-        public DateOnly Expires
+        public DateTime Expires
         {
             get { return _expires; }
             set { _expires = value; }

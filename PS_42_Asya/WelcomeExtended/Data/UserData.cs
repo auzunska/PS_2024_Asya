@@ -68,7 +68,7 @@ namespace WelcomeExtended.Data
             return null;
         }
 
-        public void SetActive(string name, DateOnly expires)
+        public void SetActive(string name, DateTime expires)
         {
            
             User user = _users.FirstOrDefault(u => u.Names == name );
