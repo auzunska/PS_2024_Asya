@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="List of all students" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        xmlns:local2="clr-namespace:UI.Components">
     <Grid>
-
+        <local2:StudentList x:Name="studentsList" Padding="2"/>
     </Grid>
 </Window>
