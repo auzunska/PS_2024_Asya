@@ -23,20 +23,21 @@ namespace DataLayer.Database
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<DatabaseUser>().Property(e => e.ID).ValueGeneratedOnAdd();
-
-            var user = new DatabaseUser()
+            // Seed initial data
+            var user = new DatabaseUser
             {
                 ID = 1,
                 Names = "John Doe",
                 Password = "1234",
                 Email = "ex@example.com",
-                FacNum = "11111111",
+                FacNum = "1111111",
                 Role = Welcome.Others.UserRolesEnum.ADMIN,
                 Expires = DateTime.Now.AddYears(10)
             };
 
+            // Apply data seeding
             modelBuilder.Entity<DatabaseUser>().HasData(user);
         }
+
     }
 }

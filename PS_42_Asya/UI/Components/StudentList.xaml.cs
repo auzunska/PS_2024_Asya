@@ -24,11 +24,23 @@ namespace UI.Components
         public StudentList()
         {
             InitializeComponent();
-            using(var context = new DatabaseContext())
+
+            // Load the data from your database or other data source
+            LoadData();
+        }
+
+        private void LoadData()
+        {
+            // Create a new instance of the database context
+            using (var context = new DatabaseContext())
             {
-                var records = context.Users.ToList();
-                students.DataContext = records;
+                // Fetch all users from the database
+                var users = context.Users.ToList();
+
+                // Set the DataGrid's ItemsSource to the list of users
+                students.ItemsSource = users;
             }
         }
     }
+
 }
