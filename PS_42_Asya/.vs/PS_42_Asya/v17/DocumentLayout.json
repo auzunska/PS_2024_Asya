@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63F634AA-7323-4031-945E-F2D6D2A1F90A}|UserRegistrationApp\\UserRegistrationApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\userregistrationapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F634AA-7323-4031-945E-F2D6D2A1F90A}|UserRegistrationApp\\UserRegistrationApp.csproj|solutionrelative:userregistrationapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F634AA-7323-4031-945E-F2D6D2A1F90A}|UserRegistrationApp\\UserRegistrationApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\userregistrationapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F634AA-7323-4031-945E-F2D6D2A1F90A}|UserRegistrationApp\\UserRegistrationApp.csproj|solutionrelative:userregistrationapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\components\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\components\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\components\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\components\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\components\\studentlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30A8EF10-CE13-41A9-8485-B53AAEF4867B}|UI\\UI.csproj|solutionrelative:ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -55,20 +71,12 @@
       "RelativeMoniker": "D:0:0:{74DF8628-E269-44DF-A920-52C8FB561D8D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000E5C08-C33D-47D9-8C63-7B532B5995D1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28A9EAA6-DE2F-408A-917C-2F080C45BCD1}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,62 +94,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentList.xaml.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Components\\StudentList.xaml.cs",
-              "RelativeDocumentMoniker": "UI\\Components\\StudentList.xaml.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Components\\StudentList.xaml.cs",
-              "RelativeToolTip": "UI\\Components\\StudentList.xaml.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T11:33:59.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml.cs",
-              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:25:28.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml",
-              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UserRegistrationApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UserRegistrationApp\\MainWindow.xaml",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UserRegistrationApp\\MainWindow.xaml",
+              "RelativeToolTip": "UserRegistrationApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-26T15:25:29.573Z",
+              "WhenOpened": "2024-09-16T20:41:00.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
-              "RelativeToolTip": "DataLayer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UserRegistrationApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserRegistrationApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UserRegistrationApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UserRegistrationApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCkAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:35:02.502Z",
+              "WhenOpened": "2024-09-16T20:41:00.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\App.xaml.cs",
               "RelativeDocumentMoniker": "UI\\App.xaml.cs",
@@ -153,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "StudentList.xaml",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Components\\StudentList.xaml",
               "RelativeDocumentMoniker": "UI\\Components\\StudentList.xaml",
@@ -165,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DatabaseUser.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Model\\DatabaseUser.cs",
               "RelativeDocumentMoniker": "DataLayer\\Model\\DatabaseUser.cs",
@@ -178,13 +160,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Database\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseContext.cs",
               "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Database\\DatabaseContext.cs",
               "RelativeToolTip": "DataLayer\\Database\\DatabaseContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T14:50:32.962Z",
               "EditorCaption": ""
@@ -192,6 +174,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "StudentList.xaml.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Components\\StudentList.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Components\\StudentList.xaml.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Components\\StudentList.xaml.cs",
+              "RelativeToolTip": "UI\\Components\\StudentList.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:33:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAEYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:28:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:28:12.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Model\\User.cs",
+              "RelativeToolTip": "Welcome\\Model\\User.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:28:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:35:02.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T15:25:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:25:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Program.cs",
               "RelativeDocumentMoniker": "Welcome\\Program.cs",
@@ -203,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UI.csproj",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\UI.csproj",
               "RelativeDocumentMoniker": "UI\\UI.csproj",
@@ -215,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\UI\\App.xaml",
               "RelativeDocumentMoniker": "UI\\App.xaml",
@@ -227,31 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Model\\User.cs",
-              "RelativeToolTip": "Welcome\\Model\\User.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAABEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:28:12.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Data\\UserData.cs",
-              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAIBGwEYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:28:12.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "DataLayer.csproj",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\DataLayer\\DataLayer.csproj",
               "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
@@ -263,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\ViewModel\\UserViewModel.cs",
               "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
@@ -275,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UserView.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\Welcome\\View\\UserView.cs",
               "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
@@ -287,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "UserHelper.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Helpers\\UserHelper.cs",
               "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelper.cs",
@@ -299,19 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Program.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\Program.cs",
-              "RelativeToolTip": "WelcomeExtended\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:28:12.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "WelcomeExtended.csproj",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\WelcomeExtended\\WelcomeExtended.csproj",
               "RelativeDocumentMoniker": "WelcomeExtended\\WelcomeExtended.csproj",
