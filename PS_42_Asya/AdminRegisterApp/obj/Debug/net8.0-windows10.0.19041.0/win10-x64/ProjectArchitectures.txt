@@ -1,0 +1,1 @@
+D:\TU_sem_6\PS_2024_Asya\PS_42_Asya\AdminRegisterApp\AdminRegisterApp.csproj;x64

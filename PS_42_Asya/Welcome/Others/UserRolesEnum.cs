@@ -6,6 +6,7 @@
         ADMIN,
         INSPECTOR,
         PROFESSOR,
-        STUDENT
+        STUDENT,
+        USER
     }
 }

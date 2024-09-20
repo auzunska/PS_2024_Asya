@@ -343,12 +343,18 @@
           "Welcome": "1.0.0"
         },
         "runtime": {
-          "DataLayer.dll": {}
+          "DataLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Welcome/1.0.0": {
         "runtime": {
-          "Welcome.dll": {}
+          "Welcome.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

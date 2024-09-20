@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeExtended", "WelcomeE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{74DF8628-E269-44DF-A920-52C8FB561D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{30A8EF10-CE13-41A9-8485-B53AAEF4867B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{30A8EF10-CE13-41A9-8485-B53AAEF4867B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminRegisterApp", "AdminRegisterApp\AdminRegisterApp.csproj", "{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,12 @@ Global
 		{30A8EF10-CE13-41A9-8485-B53AAEF4867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30A8EF10-CE13-41A9-8485-B53AAEF4867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30A8EF10-CE13-41A9-8485-B53AAEF4867B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
