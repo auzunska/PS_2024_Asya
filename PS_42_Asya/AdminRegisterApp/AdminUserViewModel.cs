@@ -148,7 +148,7 @@ namespace AdminRegisterApp
                 {
                     context.Users.Remove(userToDelete);
                     context.SaveChanges();
-                    LoadUsers(); // Reload the users list after deletion
+                    LoadUsers(); 
                 }
             }
         }
