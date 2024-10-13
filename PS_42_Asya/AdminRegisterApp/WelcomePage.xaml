@@ -6,5 +6,23 @@
     <StackLayout Padding="10">
         <Label Text="Welcome" FontSize="32" HorizontalOptions="Center" />
         <Label Text="{Binding Names}" FontSize="20" />
+
+        <!-- Display additional user information -->
+        <StackLayout Padding="10, 5">
+            <Label Text="Email:" FontSize="Small" TextColor="Gray" />
+            <Label Text="{Binding Email}" FontSize="Medium" />
+            <Label Text="Faculty Number:" FontSize="Small" TextColor="Gray" />
+            <Label Text="{Binding FacNum}" FontSize="Medium" />
+            <Label Text="Role:" FontSize="Small" TextColor="Gray" />
+            <Label Text="{Binding Role}" FontSize="Medium" />
+            <Label Text="Expires:" FontSize="Small" TextColor="Gray" />
+            <Label Text="{Binding Expires, StringFormat='{0:MM/dd/yyyy}'}" FontSize="Medium" />
+        </StackLayout>
+
+       
+            <Entry Placeholder="New Password" IsPassword="True" Text="{Binding NewPassword}" />
+
+        <Button Text="Change Password" Command="{Binding ChangePasswordCommand}" />
+
     </StackLayout>
 </ContentPage>
