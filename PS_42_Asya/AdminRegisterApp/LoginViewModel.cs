@@ -15,7 +15,7 @@ namespace AdminRegisterApp
     {
         private string _errorMessage;
 
-        public LoginViewModel() : base(new User()) // Initialize with a new User or provide a default User if necessary
+        public LoginViewModel() : base(new User()) 
         {
             LoginCommand = new Command(Login);
         }
