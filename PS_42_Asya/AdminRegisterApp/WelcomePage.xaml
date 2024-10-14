@@ -14,14 +14,11 @@
             <Label Text="{Binding FacNum}" FontSize="Medium" />
             <Label Text="Role:" FontSize="Small" TextColor="Gray" />
             <Label Text="{Binding Role}" FontSize="Medium" />
-            <Label Text="Expires:" FontSize="Small" TextColor="Gray" />
-            <Label Text="{Binding Expires, StringFormat='{0:MM/dd/yyyy}'}" FontSize="Medium" />
         </StackLayout>
 
        
             <Entry Placeholder="New Password" IsPassword="True" Text="{Binding NewPassword}" />
 
-        <!--<Button Text="Change Password" Command="{Binding ChangePasswordCommand}" />-->
         <Button Text="Change Password" Command="{Binding ChangePasswordCommand}" />
 
     </StackLayout>

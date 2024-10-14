@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminRegisterApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b2fa56c7293df4b9c1d28af5cd8c1261e2b28cef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+450ac2534c91e305d5ab73bf20cbb81b9fcb5237")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminRegisterApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminRegisterApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

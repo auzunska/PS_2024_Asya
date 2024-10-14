@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\welcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\welcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|solutionrelative:adminregisterapp\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC30DAC8-7250-4C84-86FD-26C7E37ABAE6}|AdminRegisterApp\\AdminRegisterApp.csproj|d:\\tu_sem_6\\ps_2024_asya\\ps_42_asya\\adminregisterapp\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "AdminRegisterApp\\AdminPage.xaml",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\AdminPage.xaml",
+              "RelativeToolTip": "AdminRegisterApp\\AdminPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T14:55:05.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeViewModel.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomeViewModel.cs",
+              "RelativeDocumentMoniker": "AdminRegisterApp\\WelcomeViewModel.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomeViewModel.cs",
+              "RelativeToolTip": "AdminRegisterApp\\WelcomeViewModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:40:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "AdminRegisterApp\\WelcomePage.xaml",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomePage.xaml*",
+              "RelativeToolTip": "AdminRegisterApp\\WelcomePage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T14:28:35.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AdminRegisterApp\\LoginViewModel.cs",
+              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\LoginViewModel.cs",
+              "RelativeToolTip": "AdminRegisterApp\\LoginViewModel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:47:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdminPage.xaml.cs",
               "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\AdminPage.xaml.cs",
               "RelativeDocumentMoniker": "AdminRegisterApp\\AdminPage.xaml.cs",
@@ -63,58 +115,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:54:05.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminPage.xaml",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\AdminPage.xaml",
-              "RelativeDocumentMoniker": "AdminRegisterApp\\AdminPage.xaml",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\AdminPage.xaml",
-              "RelativeToolTip": "AdminRegisterApp\\AdminPage.xaml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwBgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T14:55:05.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WelcomeViewModel.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomeViewModel.cs",
-              "RelativeDocumentMoniker": "AdminRegisterApp\\WelcomeViewModel.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomeViewModel.cs",
-              "RelativeToolTip": "AdminRegisterApp\\WelcomeViewModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:40:13.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WelcomePage.xaml",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomePage.xaml",
-              "RelativeDocumentMoniker": "AdminRegisterApp\\WelcomePage.xaml",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\WelcomePage.xaml",
-              "RelativeToolTip": "AdminRegisterApp\\WelcomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T14:28:35.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "AdminRegisterApp\\LoginViewModel.cs",
-              "ToolTip": "D:\\TU_sem_6\\PS_2024_Asya\\PS_42_Asya\\AdminRegisterApp\\LoginViewModel.cs*",
-              "RelativeToolTip": "AdminRegisterApp\\LoginViewModel.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADMAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T17:47:51.33Z",
               "EditorCaption": ""
             },
             {

@@ -23,7 +23,6 @@ namespace DataLayer.Database
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Seed initial data
             var user = new DatabaseUser
             {
                 ID = 1,
@@ -35,7 +34,6 @@ namespace DataLayer.Database
                 Expires = DateTime.Now.AddYears(10)
             };
 
-            // Apply data seeding
             modelBuilder.Entity<DatabaseUser>().HasData(user);
         }
 

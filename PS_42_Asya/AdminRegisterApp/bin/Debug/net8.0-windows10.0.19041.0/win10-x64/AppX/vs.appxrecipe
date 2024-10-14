@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\TU_sem_6\PS_2024_Asya\PS_42_Asya\AdminRegisterApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-14T18:04:39.858</Modified>
+      <Modified>2024-10-14T18:13:02.633</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,7 +43,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TU_sem_6\PS_2024_Asya\PS_42_Asya\AdminRegisterApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AdminRegisterApp.dll">
       <PackagePath>AdminRegisterApp.dll</PackagePath>
-      <Modified>2024-10-14T18:04:38.740</Modified>
+      <Modified>2024-10-14T18:13:01.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TU_sem_6\PS_2024_Asya\PS_42_Asya\Welcome\obj\Debug\net6.0\apphost.exe">
       <PackagePath>Welcome.exe</PackagePath>
@@ -55,7 +55,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TU_sem_6\PS_2024_Asya\PS_42_Asya\AdminRegisterApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AdminRegisterApp.exe</PackagePath>
-      <Modified>2024-10-14T18:04:38.748</Modified>
+      <Modified>2024-10-14T18:13:01.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TU_sem_6\PS_2024_Asya\PS_42_Asya\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json">
       <PackagePath>DataLayer.runtimeconfig.json</PackagePath>
