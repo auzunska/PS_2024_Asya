@@ -49,7 +49,7 @@ namespace AdminRegisterApp
                 }
                 else
                 {
-                    Application.Current.MainPage = new WelcomePage(new UserViewModel(user));
+                    Application.Current.MainPage = new WelcomePage(new WelcomeViewModel(user));
                 }
             }
         }

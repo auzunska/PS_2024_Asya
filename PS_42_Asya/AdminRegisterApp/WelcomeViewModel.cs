@@ -18,9 +18,8 @@ namespace AdminRegisterApp
 
         public WelcomeViewModel(User user) : base(user)
         {
-
             _currentUser = user;
-            ChangePasswordCommand = new Command(ChangePassword(_currentUser));
+            ChangePasswordCommand = new Command(ChangePassword);
         }
 
         public User CurrentUser
@@ -45,17 +44,16 @@ namespace AdminRegisterApp
 
         public ICommand ChangePasswordCommand { get; }
 
-        private void ChangePassword(User currentUser)
+        private void ChangePassword()
         {
             if (string.IsNullOrWhiteSpace(NewPassword))
             {
                 Application.Current.MainPage.DisplayAlert("Error", "New password cannot be empty!", "OK");
                 return;
             }
-
             using (var context = new DatabaseContext())
             {
-                var userToUpdate = context.Users.Find(currentUser);
+                var userToUpdate = context.Users.FirstOrDefault(u => u.ID == CurrentUser.ID);
                 if (userToUpdate != null)
                 {
                     userToUpdate.Password = NewPassword;
@@ -68,6 +66,7 @@ namespace AdminRegisterApp
                     Application.Current.MainPage.DisplayAlert("Error", "User not found!", "OK");
                 }
             }
+
             NewPassword = string.Empty;
         }
     }

@@ -7,7 +7,6 @@
         <Label Text="Welcome" FontSize="32" HorizontalOptions="Center" />
         <Label Text="{Binding Names}" FontSize="20" />
 
-        <!-- Display additional user information -->
         <StackLayout Padding="10, 5">
             <Label Text="Email:" FontSize="Small" TextColor="Gray" />
             <Label Text="{Binding Email}" FontSize="Medium" />
@@ -22,6 +21,7 @@
        
             <Entry Placeholder="New Password" IsPassword="True" Text="{Binding NewPassword}" />
 
+        <!--<Button Text="Change Password" Command="{Binding ChangePasswordCommand}" />-->
         <Button Text="Change Password" Command="{Binding ChangePasswordCommand}" />
 
     </StackLayout>
